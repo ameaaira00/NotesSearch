@@ -5,7 +5,7 @@
     },
     {
         "file": "agile.md",
-        "section": "Overview\n- Agile software development is an iterative and incremental approach to software development.\n- It emphasizes collaboration, flexibility, customer feedback, and continuous improvement."
+        "section": "Overview\n- Agile software development is an iterative and incremental approach to software development.\n- It emphasizes collaboration, flexibility, customer feedback, and continuous improvement.\n\n### Comparison with Waterfall\n- **Waterfall Model:**\n  - Sequential approach with distinct phases (requirements, design, implementation, testing, deployment).\n  - Emphasizes extensive upfront planning and documentation.\n  - Progresses linearly through stages, making it less adaptable to changes during development.\n  \n- **Comparison:**\n  - Agile is iterative and incremental, allowing for flexibility and responding to changes in requirements.\n  - Waterfall is sequential and rigid, with each phase relying heavily on outputs from the previous phase.\n  - Agile encourages customer collaboration and continuous feedback, whereas Waterfall typically involves customer input mainly at the beginning and end of the project.\n  - Waterfall is well-suited for projects with stable and well-understood requirements, while Agile is advantageous for projects where requirements may evolve or need frequent validation."
     },
     {
         "file": "agile.md",
@@ -13,7 +13,7 @@
     },
     {
         "file": "agile.md",
-        "section": "Key Characteristics\n- **Iterative:** Develops software in small, incremental cycles (iterations or sprints).\n- **Flexible:** Easily adapts to changing requirements and priorities.\n- **Customer-focused:** Constantly seeks feedback and integrates it into development.\n- **Collaborative:** Encourages teamwork and communication among all stakeholders.\n\n---\n\n# Scrum"
+        "section": "Key Characteristics\n- **Iterative:** Develops software in small, incremental cycles (iterations or sprints).\n- **Flexible:** Easily adapts to changing requirements and priorities.\n- **Customer-focused:** Constantly seeks feedback and integrates it into development.\n- **Collaborative:** Encourages teamwork and communication among all stakeholders.\n\nLearn more about the [Agile Manifesto](https://agilemanifesto.org/) and its principles.\n\n---\n# Scrum"
     },
     {
         "file": "agile.md",
@@ -121,7 +121,7 @@
     },
     {
         "file": "frontend.md",
-        "section": "HTML Basics\nHTML (Hypertext Markup Language) is the standard markup language used to create the structure and content of web pages. It consists of elements that define the semantic meaning of content, such as headings, paragraphs, links, images, and forms.\n\nBasic HTML structure:\n<pre><code>html\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Document</title>\n</head>\n<body>\n    <h1>Hello, World!</h1>\n    <p>This is a paragraph.</p>\n    <img src=\"image.jpg\" alt=\"Description of the image\">\n</body>\n</html>\n</code></pre>"
+        "section": "HTML Basics\nHTML (Hypertext Markup Language) is the standard markup language used to create the structure and content of web pages. It consists of elements that define the semantic meaning of content, such as headings, paragraphs, links, images, and forms.\n\nBasic HTML structure:\n<pre><code>html\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Document</title>\n</head>\n<body>\n    <h1>Hello, World!</h1>\n    <p>This is a paragraph.</p>\n</body>\n</html>\n</code></pre>"
     },
     {
         "file": "frontend.md",

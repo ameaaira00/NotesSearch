@@ -71,7 +71,7 @@ def search():
         )
 
     # Search in Annoy index
-    search_results = annoy_index.get_nns_by_vector(query_embedding, 2)
+    search_results = annoy_index.get_nns_by_vector(query_embedding, 5)
 
     # Calculate similarity scores and rank results
     results = []
