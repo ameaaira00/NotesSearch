@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #333;
+        }
+        .result-item {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .result-item:hover {
+            background-color: #e9ecef;
+        }
+        .file {
+            font-weight: bold;
+            margin-bottom: 10px;
+            display: block;
+        }
+        .section {
+            color: #555;
+            white-space: pre-wrap;  /* Preserve whitespace and wrap lines */
+        }
+        pre {
+            background-color: #000;
+            color: #fff;
+            padding: 10px;
+            border-radius: 4px;
+            overflow: auto;
+            font-family: 'Courier New', Courier, monospace; /* Use monospace font */
+            white-space: pre-wrap; /* Preserve whitespace and wrap lines */
+            margin-bottom: 10px; /* Add some margin */
+        }
+        .back-button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            text-align: center;
+        }
+        .back-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/" class="back-button">Back to Search</a>
+        <h2>Search Results</h2>
+        {% for result in results %}
+            <div class="result-item">
+                <span class="file">File: {{ result['file'] }}</span>
+                <div class="section">{{ result['section']|safe }}</div>
+            </div>
+        {% endfor %}
+    </div>
+</body>
+</html>

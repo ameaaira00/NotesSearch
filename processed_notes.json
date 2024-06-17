@@ -1,0 +1,294 @@
+[
+    {
+        "file": "agile.md",
+        "section": "# Agile Software Development and Scrum\n\n# Table of Contents\n1. [Agile Software Development](#agile-software-development)\n   - [Overview](#overview)\n   - [Core Principles](#core-principles)\n   - [Key Characteristics](#key-characteristics)\n2. [Scrum](#scrum)\n   - [Overview](#overview-1)\n   - [Roles](#roles)\n   - [Artifacts](#artifacts)\n   - [Events](#events)\n   - [Benefits of Scrum](#benefits-of-scrum)\n   - [Challenges](#challenges)\n   - [Conclusion](#conclusion)\n\n---\n\n# Agile Software Development"
+    },
+    {
+        "file": "agile.md",
+        "section": "Overview\n- Agile software development is an iterative and incremental approach to software development.\n- It emphasizes collaboration, flexibility, customer feedback, and continuous improvement."
+    },
+    {
+        "file": "agile.md",
+        "section": "Core Principles\n1. **Individuals and interactions over processes and tools:**\n   - Emphasizes the importance of communication and collaboration among team members.\n\n2. **Working software over comprehensive documentation:**\n   - Prioritizes delivering functioning software rather than extensive documentation.\n\n3. **Customer collaboration over contract negotiation:**\n   - Involves customers throughout the development process to ensure the product meets their needs.\n\n4. **Responding to change over following a plan:**\n   - Values flexibility and adaptability to changing requirements over rigid adherence to initial plans."
+    },
+    {
+        "file": "agile.md",
+        "section": "Key Characteristics\n- **Iterative:** Develops software in small, incremental cycles (iterations or sprints).\n- **Flexible:** Easily adapts to changing requirements and priorities.\n- **Customer-focused:** Constantly seeks feedback and integrates it into development.\n- **Collaborative:** Encourages teamwork and communication among all stakeholders.\n\n---\n\n# Scrum"
+    },
+    {
+        "file": "agile.md",
+        "section": "Overview\n- Scrum is a specific framework within Agile for managing complex software development.\n- It is lightweight, simple to understand, and difficult to master."
+    },
+    {
+        "file": "agile.md",
+        "section": "Roles\n1. **Product Owner:**\n   - Represents the stakeholders and is responsible for maximizing the value of the product.\n   - Maintains the product backlog and prioritizes items.\n\n2. **Scrum Master:**\n   - Facilitates the Scrum process and ensures the team adheres to its practices.\n   - Removes obstacles and protects the team from distractions.\n\n3. **Development Team:**\n   - Self-organizing and cross-functional group responsible for delivering the product increment.\n   - Usually 5-9 members with varied skills."
+    },
+    {
+        "file": "agile.md",
+        "section": "Artifacts\n1. **Product Backlog:**\n   - A prioritized list of all desired work on the project, managed by the Product Owner.\n\n2. **Sprint Backlog:**\n   - The set of Product Backlog items selected for the Sprint, along with a plan for delivering the product increment and realizing the Sprint Goal."
+    },
+    {
+        "file": "agile.md",
+        "section": "Events\n1. **Sprint:**\n   - Time-boxed (usually 2-4 weeks) iteration where a potentially releasable product increment is produced.\n\n2. **Sprint Planning:**\n   - Collaborative event where the Scrum Team plans the work to be performed during the Sprint.\n\n3. **Daily Scrum (Daily Standup):**\n   - Daily 15-minute meeting for the Development Team to synchronize activities and create a plan for the next 24 hours.\n\n4. **Sprint Review:**\n   - Review of the increment with stakeholders to gather feedback and decide what to do next.\n\n5. **Sprint Retrospective:**\n   - Reflection on the Sprint by the Scrum Team to improve processes and teamwork."
+    },
+    {
+        "file": "agile.md",
+        "section": "Benefits of Scrum\n- **Visibility and Transparency:** Provides clear visibility into the project's progress and challenges.\n- **Adaptability:** Allows teams to adapt quickly to changing requirements and market conditions.\n- **Improved Communication:** Facilitates regular communication within the team and with stakeholders.\n- **Faster Time to Market:** Enables quicker delivery of valuable software increments."
+    },
+    {
+        "file": "agile.md",
+        "section": "Challenges\n- **Requires Experience:** Mastery of Scrum practices and principles takes time and experience.\n- **Team Dynamics:** Requires a motivated, self-organizing team to be effective.\n- **Scaling:** Challenges can arise when scaling Scrum to larger projects or organizations."
+    },
+    {
+        "file": "agile.md",
+        "section": "Conclusion\nAgile and Scrum promote a collaborative and adaptive approach to software development, enabling teams to deliver high-quality products that meet customer needs efficiently and effectively. Success often depends on dedicated adherence to Agile principles and continuous improvement through feedback loops."
+    },
+    {
+        "file": "backend.md",
+        "section": "# Backend Development Notes"
+    },
+    {
+        "file": "backend.md",
+        "section": "Table of Contents\n- [Introduction](#introduction)\n- [Languages](#languages)\n- [Frameworks](#frameworks)\n- [Databases](#databases)\n- [APIs](#apis)\n- [Authentication and Authorization](#authentication-and-authorization)\n- [Scaling and Performance](#scaling-and-performance)\n- [Testing](#testing)\n- [Security](#security)\n- [Version Control](#version-control)\n- [Deployment](#deployment)\n- [Monitoring and Logging](#monitoring-and-logging)\n- [Documentation](#documentation)\n- [Best Practices](#best-practices)"
+    },
+    {
+        "file": "backend.md",
+        "section": "Introduction\nBackend development focuses on the server-side logic and operations of web applications. It involves handling databases, server scripting, APIs, and ensuring the application works seamlessly from the user's perspective."
+    },
+    {
+        "file": "backend.md",
+        "section": "Languages\nCommon languages for backend development include:\n- JavaScript (Node.js)\n- Python\n- Java\n- Ruby\n- PHP\n- Go"
+    },
+    {
+        "file": "backend.md",
+        "section": "Frameworks\nFrameworks simplify backend development by providing pre-built modules and tools. Popular frameworks include:\n- Express.js (Node.js)\n- Django (Python)\n- Spring Boot (Java)\n- Ruby on Rails (Ruby)\n- Laravel (PHP)"
+    },
+    {
+        "file": "backend.md",
+        "section": "Databases\nBackend development often involves choosing and managing databases:\n- Relational databases (e.g., MySQL, PostgreSQL)\n- NoSQL databases (e.g., MongoDB, Redis)"
+    },
+    {
+        "file": "backend.md",
+        "section": "APIs\nCreating and consuming APIs is crucial for backend developers:\n- RESTful APIs\n- GraphQL"
+    },
+    {
+        "file": "backend.md",
+        "section": "Authentication and Authorization\nEnsuring secure access to resources:\n- JWT (JSON Web Tokens)\n- OAuth"
+    },
+    {
+        "file": "backend.md",
+        "section": "Scaling and Performance\nOptimizing backend performance:\n- Caching (e.g., Redis)\n- Load balancing\n- Horizontal and vertical scaling"
+    },
+    {
+        "file": "backend.md",
+        "section": "Testing\nTypes of testing in backend development:\n- Unit testing\n- Integration testing\n- API testing"
+    },
+    {
+        "file": "backend.md",
+        "section": "Security\nKey considerations for backend security:\n- Input validation\n- SQL injection prevention\n- Cross-site scripting (XSS) prevention"
+    },
+    {
+        "file": "backend.md",
+        "section": "Version Control\nUsing version control systems (e.g., Git) for code management and collaboration."
+    },
+    {
+        "file": "backend.md",
+        "section": "Deployment\nDeploying backend applications to servers or cloud platforms:\n- Docker\n- Kubernetes\n- AWS, Azure, Google Cloud"
+    },
+    {
+        "file": "backend.md",
+        "section": "Monitoring and Logging\nMonitoring backend performance and logging errors:\n- Prometheus\n- ELK stack (Elasticsearch, Logstash, Kibana)"
+    },
+    {
+        "file": "backend.md",
+        "section": "Documentation\nDocumenting APIs and codebase for clarity and maintainability:\n- Swagger\n- Markdown files\n- README.md"
+    },
+    {
+        "file": "backend.md",
+        "section": "Best Practices\nGuidelines for effective backend development:\n- Code readability and maintainability\n- Error handling\n- Consistent coding standards\n- Regular updates and patches"
+    },
+    {
+        "file": "frontend.md",
+        "section": "# Front-End Development Notes"
+    },
+    {
+        "file": "frontend.md",
+        "section": "Table of Contents\n- [Introduction to Front-End Development](#introduction-to-front-end-development)\n- [HTML Basics](#html-basics)\n- [CSS Fundamentals](#css-fundamentals)\n- [Responsive Web Design](#responsive-web-design)\n- [JavaScript Essentials](#javascript-essentials)\n- [DOM Manipulation](#dom-manipulation)\n- [Frameworks and Libraries](#frameworks-and-libraries)\n- [Version Control Systems](#version-control-systems)\n- [Tools and Development Environment](#tools-and-development-environment)"
+    },
+    {
+        "file": "frontend.md",
+        "section": "Introduction to Front-End Development\nFront-end development involves the creation and implementation of the user-facing part of websites and web applications. It encompasses HTML, CSS, and JavaScript, focusing on how users interact with the content and design."
+    },
+    {
+        "file": "frontend.md",
+        "section": "HTML Basics\nHTML (Hypertext Markup Language) is the standard markup language used to create the structure and content of web pages. It consists of elements that define the semantic meaning of content, such as headings, paragraphs, links, images, and forms.\n\nBasic HTML structure:\n<pre><code>html\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Document</title>\n</head>\n<body>\n    <h1>Hello, World!</h1>\n    <p>This is a paragraph.</p>\n    <img src=\"image.jpg\" alt=\"Description of the image\">\n</body>\n</html>\n</code></pre>"
+    },
+    {
+        "file": "frontend.md",
+        "section": "CSS Fundamentals\nCSS (Cascading Style Sheets) is used to style the appearance of HTML elements on a webpage. It allows developers to control layout, colors, fonts, and other visual aspects of a site. CSS can be applied inline, internally within a page, or externally via separate stylesheets.\n\nExample of CSS styling:\n<pre><code>css\nbody {\n    font-family: Arial, sans-serif;\n    background-color: #f0f0f0;\n    margin: 0;\n    padding: 0;\n}\n\nh1 {\n    color: #333;\n    text-align: center;\n}\n\np {\n    line-height: 1.6;\n}\n\n</code></pre>"
+    },
+    {
+        "file": "frontend.md",
+        "section": "Responsive Web Design\nResponsive web design ensures that a website displays correctly on various devices and screen sizes, from desktops to smartphones. Techniques include fluid grids, flexible images, and media queries to adjust styles based on viewport dimensions.\n\nExample of media query for responsiveness:\n<pre><code>css\n/* Styles for screens smaller than 768px */\n@media only screen and (max-width: 768px) {\n    .container {\n        width: 100%;\n        padding: 10px;\n    }\n}\n</code></pre>"
+    },
+    {
+        "file": "frontend.md",
+        "section": "JavaScript Essentials\nJavaScript is a versatile programming language that adds interactivity and dynamic behavior to web pages. It can manipulate the DOM, handle events, create animations, and interact with servers (Ajax).\n\nExample of JavaScript DOM manipulation:\n<pre><code>javascript\n// Change text content of an element\ndocument.getElementById('myElement').textContent = 'Updated text';\n\n// Add an event listener\ndocument.querySelector('button').addEventListener('click', function() {\n    alert('Button clicked!');\n});\n</code></pre>"
+    },
+    {
+        "file": "frontend.md",
+        "section": "DOM Manipulation\nDOM (Document Object Model) manipulation refers to the process of accessing and modifying the HTML structure and content of a webpage using JavaScript. It allows dynamic updates based on user actions or application state changes.\n\nExample of DOM manipulation:\n<pre><code>html\n<div id=\"app\">\n    <p>Hello, <span id=\"name\">Guest</span>!</p>\n    <button onclick=\"updateName()\">Update Name</button>\n</div>\n\n<script>\nfunction updateName() {\n    var newName = prompt('Enter your name:');\n    document.getElementById('name').textContent = newName;\n}\n</script>\n</code></pre>"
+    },
+    {
+        "file": "frontend.md",
+        "section": "Frameworks and Libraries\nFrameworks like React, Vue.js, and Angular provide reusable components and structured patterns to streamline front-end development. They offer features for state management, routing, and data binding, enhancing productivity and maintainability.\n\nExample using React to create a component:\n<pre><code>jsx\nimport React from 'react';\n\nfunction App() {\n    return (\n        <div>\n            <h1>Hello, React!</h1>\n            <p>This is a React component.</p>\n        </div>\n    );\n}\n\nexport default App;\n</code></pre>"
+    },
+    {
+        "file": "frontend.md",
+        "section": "Version Control Systems\nGit is a widely used version control system that tracks changes to files and facilitates collaboration among developers. It allows for branching, merging, and reverting to previous versions of code, ensuring project integrity and teamwork efficiency.\n\nBasic Git commands:\n<pre><code>\ngit init\ngit add .\ngit commit -m \"Initial commit\"\ngit branch <branchname>\ngit checkout <branchname>\ngit merge <branchname>\ngit push origin <branchname>\ngit pull origin <branchname>\n</code></pre>"
+    },
+    {
+        "file": "frontend.md",
+        "section": "Tools and Development Environment\nDevelopment environments like Visual Studio Code, Atom, or Sublime Text provide editors with features tailored for front-end development, including syntax highlighting, code completion, and integrated terminal support. Additionally, tools like Chrome DevTools aid debugging and performance optimization.\n\nUseful Chrome DevTools features:\n- Inspect element\n- Console for debugging JavaScript\n- Network tab for monitoring HTTP requests\n- Performance profiling"
+    },
+    {
+        "file": "llm.md",
+        "section": "# Large Language Models Notes"
+    },
+    {
+        "file": "llm.md",
+        "section": "Table of Contents\n- [Introduction](#introduction)\n- [How They Work](#how-they-work)\n- [Applications](#applications)\n- [Natural Language Understanding](#natural-language-understanding)\n- [Generation and Text Completion](#generation-and-text-completion)\n- [Training and Fine-tuning](#training-and-fine-tuning)\n- [Ethical Considerations](#ethical-considerations)"
+    },
+    {
+        "file": "llm.md",
+        "section": "Introduction\nLarge language models are advanced AI systems trained on vast amounts of text data to understand and generate human-like text."
+    },
+    {
+        "file": "llm.md",
+        "section": "How They Work\n- **Transformer Architecture**: Core architecture used in large language models, enabling efficient processing of long-range dependencies in text.\n- **Self-attention Mechanism**: Allows the model to weigh the importance of different words in a sentence based on context.\n- **Fine-tuning**: Process of adapting a pre-trained model to a specific task or domain with additional training on task-specific data."
+    },
+    {
+        "file": "llm.md",
+        "section": "Applications\n- **Chatbots**: Conversational agents that can engage in text-based conversations with users.\n- **Summarization**: Generating concise summaries of long pieces of text.\n- **Translation**: Automatically translating text from one language to another.\n- **Content Generation**: Creating human-like text for various purposes, such as storytelling or news articles."
+    },
+    {
+        "file": "llm.md",
+        "section": "Natural Language Understanding\n- **Named Entity Recognition (NER)**: Identifying and categorizing named entities (e.g., names of people, organizations) in text.\n- **Sentiment Analysis**: Determining the sentiment expressed in a piece of text (e.g., positive, negative, neutral).\n- **Language Modeling**: Predicting the likelihood of a word or phrase given the context of previous words in a sentence."
+    },
+    {
+        "file": "llm.md",
+        "section": "Generation and Text Completion\n- **Text Generation**: Creating coherent and contextually relevant text based on a prompt or input.\n- **Text Completion**: Suggesting the next words in a sentence to assist with writing or to speed up typing."
+    },
+    {
+        "file": "llm.md",
+        "section": "Training and Fine-tuning\n- **Pre-training**: Initial training on large-scale text data to learn general language patterns and knowledge.\n- **Fine-tuning**: Customizing a pre-trained model on specific tasks or datasets to improve performance."
+    },
+    {
+        "file": "llm.md",
+        "section": "Ethical Considerations\n- **Bias**: Models may reflect biases present in training data, leading to unfair or discriminatory outputs.\n- **Privacy**: Handling of personal data when models interact with sensitive information.\n- **Misuse**: Potential misuse of AI-generated content for malicious purposes, such as spreading misinformation."
+    },
+    {
+        "file": "networks.md",
+        "section": "# Computer Networks Notes"
+    },
+    {
+        "file": "networks.md",
+        "section": "Table of Contents\n- [Introduction](#introduction)\n- [Network Types](#network-types)\n- [Network Topologies](#network-topologies)\n- [Network Devices](#network-devices)\n- [Network Protocols](#network-protocols)\n- [IP Addressing](#ip-addressing)\n- [Routing and Switching](#routing-and-switching)\n- [Network Security](#network-security)\n- [Wireless Networking](#wireless-networking)\n- [Network Performance](#network-performance)\n- [Network Management](#network-management)\n- [Cloud Networking](#cloud-networking)"
+    },
+    {
+        "file": "networks.md",
+        "section": "Introduction\nA computer network is a collection of computers and other hardware devices interconnected for communication and sharing resources."
+    },
+    {
+        "file": "networks.md",
+        "section": "Network Types\n- **LAN (Local Area Network)**: Small geographical area, typically within a building or campus.\n- **WAN (Wide Area Network)**: Spans a large geographical area, often connecting multiple LANs.\n- **MAN (Metropolitan Area Network)**: Covers a larger area than a LAN but smaller than a WAN, such as a city."
+    },
+    {
+        "file": "networks.md",
+        "section": "Network Topologies\n- **Star**: Centralized network with devices connected to a central hub or switch.\n- **Bus**: Devices connected linearly along a single backbone.\n- **Ring**: Devices connected in a circular or ring configuration.\n- **Mesh**: Devices interconnected with multiple redundant paths."
+    },
+    {
+        "file": "networks.md",
+        "section": "Network Devices\n- **Router**: Connects different networks and routes data packets between them.\n- **Switch**: Connects devices within a single network, forwarding data to specific devices.\n- **Hub**: Basic networking device that connects multiple devices in a LAN.\n- **Modem**: Converts digital data from a computer to analog signals for transmission over telephone lines."
+    },
+    {
+        "file": "networks.md",
+        "section": "Network Protocols\n- **TCP/IP**: Transmission Control Protocol/Internet Protocol, fundamental protocols for the internet.\n- **HTTP/HTTPS**: Hypertext Transfer Protocol/Secure, for transferring web pages and data.\n- **FTP**: File Transfer Protocol, for file transfers between systems.\n- **DNS**: Domain Name System, translates domain names to IP addresses.\n- **SMTP/POP3/IMAP**: Email protocols for sending and receiving emails."
+    },
+    {
+        "file": "networks.md",
+        "section": "IP Addressing\n- **IPv4**: 32-bit address in dotted-decimal format (e.g., 192.168.1.1).\n- **IPv6**: 128-bit address to accommodate the growing number of devices (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334)."
+    },
+    {
+        "file": "networks.md",
+        "section": "Routing and Switching\n- **Routing**: Process of selecting paths in a network along which to send network traffic.\n- **Switching**: Process of forwarding data packets between devices on the same network."
+    },
+    {
+        "file": "networks.md",
+        "section": "Network Security\n- **Firewall**: Filters network traffic based on predefined security rules.\n- **VPN**: Virtual Private Network, secures communication over a public network by encrypting data.\n- **IDS/IPS**: Intrusion Detection System/Intrusion Prevention System, monitors and analyzes network traffic for potential threats."
+    },
+    {
+        "file": "networks.md",
+        "section": "Wireless Networking\n- **Wi-Fi**: Wireless local area networking technology based on IEEE 802.11 standards.\n- **Bluetooth**: Short-range wireless technology for connecting devices over short distances.\n- **NFC**: Near Field Communication, allows two devices to establish communication by bringing them close together."
+    },
+    {
+        "file": "networks.md",
+        "section": "Network Performance\n- **Bandwidth**: Maximum data transfer rate of a network or internet connection.\n- **Latency**: Time delay between the moment data is sent and received.\n- **Jitter**: Variability in latency, affecting audio and video quality in real-time applications."
+    },
+    {
+        "file": "networks.md",
+        "section": "Network Management\n- **SNMP**: Simple Network Management Protocol, monitors and manages network devices.\n- **Syslog**: Standard for computer message logging, collecting and storing logs from various devices.\n- **Monitoring Tools**: Software tools like Nagios, Zabbix for monitoring network performance and health."
+    },
+    {
+        "file": "networks.md",
+        "section": "Cloud Networking\n- **Virtualization**: Partitioning of physical servers into smaller virtual servers to maximize resources.\n- **SDN**: Software-Defined Networking, where network control is decoupled from hardware.\n- **Public/Private/Hybrid Cloud**: Different deployment models offering varying levels of control and security."
+    },
+    {
+        "file": "nlp.md",
+        "section": "# Natural Language Processing (NLP) Notes"
+    },
+    {
+        "file": "nlp.md",
+        "section": "Table of Contents\n- [Introduction](#introduction)\n- [Tokenization](#tokenization)\n- [Embedding Generation](#embedding-generation)\n- [Indexing](#indexing)\n- [Named Entity Recognition (NER)](#named-entity-recognition-ner)\n- [Part-of-Speech Tagging (POS)](#part-of-speech-tagging-pos)\n- [Text Classification](#text-classification)\n- [Machine Translation](#machine-translation)\n- [Sentiment Analysis](#sentiment-analysis)\n- [Ethical Considerations](#ethical-considerations)"
+    },
+    {
+        "file": "nlp.md",
+        "section": "Introduction\nNatural Language Processing (NLP) involves the use of algorithms and models to understand and manipulate human language."
+    },
+    {
+        "file": "nlp.md",
+        "section": "Tokenization\n**Tokenization** is the process of breaking down text into smaller units called tokens, which can be words, subwords, or characters.\n\n### Detailed Explanation:\n1. **Types of Tokenization:**\n   - **Word Tokenization:** Splits text into words based on spaces and punctuation.\n   - **Subword Tokenization:** Breaks words into smaller subword units (e.g., BPE, WordPiece), useful for handling unseen words.\n   - **Character Tokenization:** Splits text into individual characters.\n\n2. **Tokenization Process:**\n   - **Text Preprocessing:** Clean and normalize text data.\n   - **Tokenization Algorithm:** Apply specific algorithms to segment text into tokens.\n   - **Token Output:** Sequence of tokens used for further NLP tasks.\n\n3. **Tokenization Libraries:**\n   - **NLTK:** Basic tokenization and text processing.\n   - **SpaCy:** Efficient tokenization with support for multiple languages.\n   - **Transformers (Hugging Face):** Advanced tokenization for models like BERT, GPT."
+    },
+    {
+        "file": "nlp.md",
+        "section": "Embedding Generation\n**Embedding Generation** converts text or tokens into numerical representations (vectors) in a high-dimensional space.\n\n### Detailed Explanation:\n1. **Purpose of Embeddings:**\n   - **Semantic Meaning:** Capture semantic relationships between words.\n   - **Contextual Information:** Understand context-specific meanings of words and sentences.\n\n2. **Types of Embeddings:**\n   - **Word Embeddings:** Word2Vec, GloVe, FastText.\n   - **Contextual Embeddings:** BERT, GPT, Transformer-based models.\n\n3. **Embedding Generation Process:**\n   - **Model Initialization:** Load pretrained embedding models.\n   - **Tokenization:** Convert text into tokens.\n   - **Embedding Extraction:** Obtain numerical vectors reflecting text semantics.\n   - **Output:** Use embeddings for downstream NLP tasks like classification and generation."
+    },
+    {
+        "file": "nlp.md",
+        "section": "Indexing\n**Indexing** organizes textual data to facilitate efficient search and retrieval operations.\n\n### Detailed Explanation:\n1. **Purpose of Indexing:**\n   - **Fast Retrieval:** Quickly find relevant documents or records.\n   - **Scalability:** Handle large volumes of data effectively.\n   - **Complex Queries:** Support advanced search operations.\n\n2. **Types of Indexing Structures:**\n   - **Inverted Index:** Maps keywords to documents containing those keywords.\n   - **Vector Index:** Stores embeddings for similarity search.\n   - **Graph-based Index:** Represents relationships between entities.\n\n3. **Indexing Techniques:**\n   - **Annoy:** Approximate nearest neighbor search based on embeddings.\n   - **FAISS:** Facebook's library for efficient similarity search.\n   - **Inverted Indexing:** Traditional method for text retrieval."
+    },
+    {
+        "file": "nlp.md",
+        "section": "Named Entity Recognition (NER)\n**Named Entity Recognition** identifies and categorizes named entities in text into predefined categories such as names, locations, and organizations."
+    },
+    {
+        "file": "nlp.md",
+        "section": "Part-of-Speech Tagging (POS)\n**Part-of-Speech Tagging** assigns grammatical tags (e.g., noun, verb) to words in a sentence, aiding in syntax analysis and understanding."
+    },
+    {
+        "file": "nlp.md",
+        "section": "Text Classification\n**Text Classification** categorizes text into predefined classes or categories based on content and context, using techniques like machine learning algorithms."
+    },
+    {
+        "file": "nlp.md",
+        "section": "Machine Translation\n**Machine Translation** translates text from one language to another automatically, leveraging NLP models and techniques."
+    },
+    {
+        "file": "nlp.md",
+        "section": "Sentiment Analysis\n**Sentiment Analysis** determines the sentiment expressed in text (e.g., positive, negative, neutral), useful for opinion mining and customer feedback analysis."
+    },
+    {
+        "file": "nlp.md",
+        "section": "Ethical Considerations\n- **Bias:** Addressing biases in training data and model outputs.\n- **Privacy:** Handling sensitive information and user data.\n- **Misuse:** Preventing malicious use of NLP models for misinformation or unethical purposes."
+    }
+]
